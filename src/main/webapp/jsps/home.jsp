@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>CLOUD COMPUTING class demo - Home Page</title>
-<link href="images/saiimages.jpg" rel="icon">
+<link href="C:\Users\nehak\Downloads\logo.png" rel="icon">
 </head>
 </head>
 <body>
