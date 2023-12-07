@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>CLOUD COMPUTING class demo - Home Page</title>
-<link href="C:\Users\nehak\Downloads\logo.png" rel="icon">
+<link href="images/saiimages.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="C:\Users\nehak\Downloads\logo.png" alt="" width="100">
+		<img src="images/saiimages.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		
