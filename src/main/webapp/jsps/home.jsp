@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/saiimages.jpg" alt="" width="100">
+		<img src="C:\Users\nehak\Downloads\logo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		
