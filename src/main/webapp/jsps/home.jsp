@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">CLOUD COMPUTING PROJECT </h1>
+<h1 align="center">CLOUD COMPUTING PROJECT 1 </h1>
 <h1 align="center">CI/CD Build Pipeline with jenkins </h1>
 <hr>
 <div style="text-align: center;">
